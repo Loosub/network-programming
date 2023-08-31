@@ -1,0 +1,16 @@
+E:\1. Uhan\01. Lecture\3-1\2. 서버프로그래밍\15w\Csharp\Chapter04\TCPServer\bin\Debug\TCPServer.exe.config
+E:\1. Uhan\01. Lecture\3-1\2. 서버프로그래밍\15w\Csharp\Chapter04\TCPServer\bin\Debug\TCPServer.exe
+E:\1. Uhan\01. Lecture\3-1\2. 서버프로그래밍\15w\Csharp\Chapter04\TCPServer\bin\Debug\TCPServer.pdb
+E:\1. Uhan\01. Lecture\3-1\2. 서버프로그래밍\15w\Csharp\Chapter04\TCPServer\obj\Debug\TCPServer.csproj.AssemblyReference.cache
+E:\1. Uhan\01. Lecture\3-1\2. 서버프로그래밍\15w\Csharp\Chapter04\TCPServer\obj\Debug\TCPServer.csproj.SuggestedBindingRedirects.cache
+E:\1. Uhan\01. Lecture\3-1\2. 서버프로그래밍\15w\Csharp\Chapter04\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+E:\1. Uhan\01. Lecture\3-1\2. 서버프로그래밍\15w\Csharp\Chapter04\TCPServer\obj\Debug\TCPServer.exe
+E:\1. Uhan\01. Lecture\3-1\2. 서버프로그래밍\15w\Csharp\Chapter04\TCPServer\obj\Debug\TCPServer.pdb
+E:\1. Uhan\01. Lecture\3-1\2. 서버프로그래밍\15w\제출\202127071-표승현 (1)\bin\Debug\TCPServer.exe.config
+E:\1. Uhan\01. Lecture\3-1\2. 서버프로그래밍\15w\제출\202127071-표승현 (1)\bin\Debug\TCPServer.exe
+E:\1. Uhan\01. Lecture\3-1\2. 서버프로그래밍\15w\제출\202127071-표승현 (1)\bin\Debug\TCPServer.pdb
+E:\1. Uhan\01. Lecture\3-1\2. 서버프로그래밍\15w\제출\202127071-표승현 (1)\obj\Debug\TCPServer.csproj.AssemblyReference.cache
+E:\1. Uhan\01. Lecture\3-1\2. 서버프로그래밍\15w\제출\202127071-표승현 (1)\obj\Debug\TCPServer.csproj.SuggestedBindingRedirects.cache
+E:\1. Uhan\01. Lecture\3-1\2. 서버프로그래밍\15w\제출\202127071-표승현 (1)\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+E:\1. Uhan\01. Lecture\3-1\2. 서버프로그래밍\15w\제출\202127071-표승현 (1)\obj\Debug\TCPServer.exe
+E:\1. Uhan\01. Lecture\3-1\2. 서버프로그래밍\15w\제출\202127071-표승현 (1)\obj\Debug\TCPServer.pdb
